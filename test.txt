@@ -1,5 +1,8 @@
 for index in dict {
  index;
  index;
+ index;
+ index;
+ index;
 }
 exit;
